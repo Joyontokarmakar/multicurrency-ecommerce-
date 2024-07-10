@@ -21,7 +21,8 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "src/components/home/SectionBr, "src/pages/home/SectionProducts.js", "src/pages/home/SectionHeader.js"ands.j", "src/components/home/SectionBestDeals.js", "src/components/home/index.js", "src/components/CountDownTimer.js", "src/components/ProductCard.js", "src/components/ProductSlider.js", "src/utils/AppConfig.js", "src/utils/animationVariants.js", "src/components/common/slider.js", "src/components/PromoTag.js", "src/hooks/useCountDownTime.js", "src/components/Filter.js"  ],
+    // "src/components/home/SectionBr, "src/pages/home/SectionProducts.js", "src/pages/home/SectionHeader.js"ands.j", "src/components/home/SectionBestDeals.js", "src/components/home/index.js", "src/components/CountDownTimer.js", "src/components/ProductCard.js", "src/components/ProductSlider.js", "src/utils/AppConfig.js", "src/utils/animationVariants.js", "src/components/common/slider.js", "src/components/PromoTag.js", "src/hooks/useCountDownTime.js", "src/components/Filter.js"  
+],
   "exclude": [
     "node_modules"
   ]

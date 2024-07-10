@@ -1,9 +1,9 @@
 import React from "react";
 
-import SectionHeader from "@/components/home/SectionHeader";
-import SectionBestDeals from "@/components/home/SectionBestDeals";
-import SectionProducts from "@/components/home/SectionProducts";
-import SectionBrands from "@/components/home/SectionBrands";
+import SectionHeader from "../components/home/SectionHeader";
+import SectionBestDeals from "../components/home/SectionBestDeals";
+import SectionProducts from "../components/home/SectionProducts";
+import SectionBrands from "../components/home/SectionBrands";
 
 export default function Home() {
   

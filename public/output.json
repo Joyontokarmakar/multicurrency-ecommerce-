@@ -1,0 +1,36 @@
+{
+  "medicineData": [
+    {
+      "type": "tab",
+      "name": "medicine 1",
+      "dose": "1+1+1",
+      "days": "30",
+      "whenToTake": "After Food",
+      "additionalNote": ""
+    }
+  ],
+  "symptoms": ["a", "• b", "• c", "• d", "• "],
+  "tests": ["i", "• j", "• k", "• l", "• "],
+  "oges": ["e", "• f", "• g", "• h", "• "],
+  "patientInfo": {
+    "name": "Joyonto Karmakar",
+    "age": "28",
+    "sex": "male",
+    "mobile": "",
+    "address": "",
+    "date": "2024-05-03",
+    "nextMeetDay": "25"
+  },
+  "chamberInfo": {
+    "name": "",
+    "address": "",
+    "city": "",
+    "state": ""
+  },
+  "doctorInfo": {
+    "name": "",
+    "degree": "",
+    "institute": "",
+    "mobile": ""
+  }
+}

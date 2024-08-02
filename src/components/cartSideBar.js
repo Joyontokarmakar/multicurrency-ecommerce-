@@ -12,7 +12,7 @@ import { shoes } from '../data/content';
 import ButtonCircle3 from './common/Button/buttonCircle3';
 import ButtonPrimary from './common/Button/buttonPrimary';
 import ButtonSecondary from './common/Button/buttonSecondary';
-import LikeButton from './LikeButton';
+import LikeButton from './likeButton';
 import InputNumber from './common/inputNumber';
 
 const CartSideBar = () => {

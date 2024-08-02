@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { newsletter } from '../../../data/content';
-import Input from '../../common/Input';
+import Input from '../../common/input';
 import ButtonPrimary from '../../common/Button/buttonPrimary';
 
 

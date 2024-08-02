@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { pathOr } from 'ramda';
 import React, { useState } from 'react';
 
-import LikeButton from './LikeButton';
+import LikeButton from './likeButton';
 
 const ImageShowCase = ({ shots }) => {
   const [activeImageIndex, setActiveImageIndex] = useState(0);

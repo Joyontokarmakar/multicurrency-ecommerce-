@@ -10,7 +10,7 @@ import CartSideBar from '../../cartSideBar';
 import MenuBar from './MenuBar';
 import ButtonCircle3 from '../../common/Button/buttonCircle3';
 import Logo from '../../common/logo';
-import Input from '../../common/Input';
+import Input from '../../common/input';
 
 const MainNav = () => {
   return (

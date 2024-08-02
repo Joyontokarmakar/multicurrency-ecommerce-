@@ -1,8 +1,8 @@
 import React from 'react';
 
-import { footerBannerData } from '@/data/content';
-import ButtonPrimary from '@/components/common/Button/buttonPrimary';
-import Heading from '@/components/heading';
+import { footerBannerData } from '../../../data/content';
+import ButtonPrimary from '../../common/Button/buttonPrimary';
+import Heading from '../../heading';
 
 
 const FooterBanner = () => {

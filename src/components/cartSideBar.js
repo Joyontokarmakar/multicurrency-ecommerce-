@@ -8,7 +8,7 @@ import { AiOutlineDelete } from 'react-icons/ai';
 import { FaBagShopping } from 'react-icons/fa6';
 import { MdClose, MdStar } from 'react-icons/md';
 
-import { shoes } from '@/data/content';
+import { shoes } from '../data/content';
 import ButtonCircle3 from './common/Button/buttonCircle3';
 import ButtonPrimary from './common/Button/buttonPrimary';
 import ButtonSecondary from './common/Button/buttonSecondary';

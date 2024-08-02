@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { promotionTag } from '@/data/content';
-import ButtonSecondary from '@/components/common/Button/buttonSecondary';
+import { promotionTag } from '../data/content';
+import ButtonSecondary from '../components/common/Button/buttonSecondary';
 
 const PromoTag = () => {
   return (

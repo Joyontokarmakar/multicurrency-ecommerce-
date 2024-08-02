@@ -1,9 +1,9 @@
 import Link from 'next/link';
 import React from 'react';
 
-import { footerData } from '@/data/content';
+import { footerData } from '../../../data/content';
 
-import Logo from '@/components/common/logo';
+import Logo from '../../common/logo';
 import Subscribe from './Subscribe';
 import FooterBanner from './FooterBanner';
 

@@ -4,13 +4,13 @@ import React from 'react';
 import { FaRegBell } from 'react-icons/fa6';
 import { RiSearch2Line } from 'react-icons/ri';
 
-import avatar from '@/images/avatar.png';
+import avatar from '../../../images/avatar.png';
 
-import CartSideBar from '@/components/cartSideBar';
+import CartSideBar from '../../cartSideBar';
 import MenuBar from './MenuBar';
-import ButtonCircle3 from '@/components/common/Button/buttonCircle3';
-import Input from '@/components/common/input';
-import Logo from '@/components/common/logo';
+import ButtonCircle3 from '../../common/Button/buttonCircle3';
+import Logo from '../../common/logo';
+import Input from '../../common/Input';
 
 const MainNav = () => {
   return (

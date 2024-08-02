@@ -4,8 +4,8 @@ import React from 'react';
 import Link from 'next/link';
 import { MdClose } from 'react-icons/md';
 
-import { NavLinks } from '@/data/content';
-import Logo from '@/components/common/logo';
+import { NavLinks } from '../../../data/content';
+import Logo from '../../common/logo';
 
 const NavMobile = ({ onClickClose }) => {
   return (

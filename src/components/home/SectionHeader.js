@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import React from 'react';
 
-import PromoTag from '@/components/PromoTag';
-import { headerSection } from '@/data/content';
-import shoe_box from '@/images/shoe_box.png';
-import ButtonPrimary from '@/components/common/Button/buttonPrimary';
+import PromoTag from '../PromoTag';
+import { headerSection } from '../../data/content';
+import shoe_box from '../../images/shoe_box.png';
+import ButtonPrimary from '../../components/common/Button/buttonPrimary';
 
 const SectionHeader = () => {
   return (

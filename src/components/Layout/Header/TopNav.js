@@ -1,9 +1,9 @@
 import React from 'react';
 
-import { topNavLinks } from '@/data/content';
+import { topNavLinks } from '../../../data/content';
 
-import Language from '@/components/language';
-import NavigationItem from '@/components/navItem';
+import Language from '../../language';
+import NavigationItem from '../../navItem';
 
 const TopNav = () => {
   return (

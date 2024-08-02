@@ -2,7 +2,7 @@
 
 import React from 'react';
 
-import { shoes } from '@/data/content';
+import { shoes } from '../data/content';
 
 import ProductCard from './ProductCard';
 import Slider from './common/slider';

@@ -1,9 +1,9 @@
 import React from 'react';
 
-import BrandCard from '@/components/BrandCard';
-import { brandsSection } from '@/data/content';
-import Heading from '@/components/heading';
-import ButtonPrimary from '@/components/common/Button/buttonPrimary';
+import { brandsSection } from '../../data/content';
+import BrandCard from '../brandCard';
+import Heading from '../heading';
+import ButtonPrimary from '../common/Button/buttonPrimary';
 
 const SectionBrands = () => {
   return (

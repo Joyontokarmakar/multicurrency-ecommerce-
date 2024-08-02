@@ -7,8 +7,8 @@ const Heading = ({
   title = '',
   className = 'mb-10',
   isCenter = false,
-  isMain,
-  hasNextPrev,
+  isMain = false,  // Providing default value
+  hasNextPrev = false,  // Providing default value
   ...args
 }) => {
   return (

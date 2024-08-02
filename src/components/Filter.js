@@ -1,7 +1,7 @@
 import React from 'react';
 import { LuFilter } from 'react-icons/lu';
 
-import { filters } from '@/data/content';
+import { filters } from '../data/content';
 import Button from './common/Button/button';
 import Select from './common/select';
 

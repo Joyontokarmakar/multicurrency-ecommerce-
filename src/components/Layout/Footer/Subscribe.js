@@ -1,8 +1,8 @@
 import React from 'react';
 
-import { newsletter } from '@/data/content';
-import Input from '@/components/common/input';
-import ButtonPrimary from '@/components/common/Button/buttonPrimary';
+import { newsletter } from '../../../data/content';
+import Input from '../../common/Input';
+import ButtonPrimary from '../../common/Button/buttonPrimary';
 
 
 
